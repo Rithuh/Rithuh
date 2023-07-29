@@ -61,11 +61,18 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Rithuh}/count.svg"></p>
 
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+<ul>			
+	<li><i><a href="https://github.com/akash-r-prabhu/GuestLecturesManagement">Guest Lecture Management System </a></i>:<ul>A Guest Lecture Management Systen developed using Agile methodology, that creates and manages guest lectures delivered in a university, as well as registration for guest lectures</ul></li>
+	<li><i><a href="https://github.com/akash-r-prabhu/unused_medicine_donation">Donation System for Unused Medicines </a></i>:<ul>A portal to donate unsed medicines to people in need, and for needy people to avail such medicines </ul></li>
+	<li><i><a href="https://github.com/akash-r-prabhu/star_platinum.github.io">Star Platinum - A Movie Streaming Platform</a></i>:<ul>A lucarative UI to act as an online streaming website</ul></li>
+</ul>
+
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 <p  align="justify">
   Hello, I'm Rithuh Subhakkrrith S, pursuing my final year as an under graduate in Computer Science and Engineering in Amrita Vishwa Vidyapeetham, Coimbatore.
-I like to code in Python and am also proficient in C++ and C. Obsessed with OOPS, I am familiar with Java, as well as Scala. Though I like RDBMS, I am exploring NO-SQL databases like MongoDB. I am currently exploring Agile, DevOps, and Cloud Computing. I also am interested in Computer Security and Information Security. 
+I like to code in Python and am also proficient in C++ and C. Obsessed with OOPS, I am familiar with Java, as well as Scala. Though I like RDBMS, I am exploring NO-SQL databases like MongoDB. I am currently enriching my knowledge on Agile, DevOps, and Cloud Computing. I have basic knowledge on Machine Learning, Data Science and Big Data, but would like to know more about them in the future. I also am interested in Computer Security and Information Security. 
 </p>
 
 
