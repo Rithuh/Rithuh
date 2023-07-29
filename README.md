@@ -42,14 +42,16 @@
 
 <br/>
 <p align="left">
-  <a href="https://www.torrinleonard.com/">
+  <a href="">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rithuh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rithuh&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rithuh&custom_title=Rithuh's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
+
+
 
 <p align="center">
   <a href="http://torrinleonard.com/">
@@ -58,4 +60,12 @@
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Rithuh}/count.svg"></p>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+<p  align="justify">
+  Hello, I'm Rithuh Subhakkrrith S, pursuing my final year as an under graduate in Computer Science and Engineering in Amrita Vishwa Vidyapeetham, Coimbatore.
+I like to code in Python and am also proficient in C++ and C. Obsessed with OOPS, I am familiar with Java, as well as Scala. Though I like RDBMS, I am exploring NO-SQL databases like MongoDB. I am currently exploring Agile, DevOps, and Cloud Computing. I also am interested in Computer Security and Information Security. 
+</p>
+
 
